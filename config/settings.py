@@ -27,7 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
-
+#https://github.com/sminhyeok/Bookmark-Django-.git
 # Application definition
 
 INSTALLED_APPS = [
